@@ -11,9 +11,9 @@ instala independencias de node
 
 instala **Angular** y **Bootstrap** entrando a la carpeta _/public_
 
-    bower install angular
-    bower install angular-route
-    bower install bootstrap
+    bower install angular --save
+    bower install angular-route --save
+    bower install bootstrap --save
 
 Inicia la app
 
